@@ -1,0 +1,5 @@
+Yes, there is a better and optimal method to do the searching process. We can use the hashtable data structure.
+ So the time complexity will be brought down to O(m) if we are using an unordered map and O(m*log n) while using ordered map.
+which is faster than searching in a list where binary search is O(log n).
+
+ (Hasing bu chaining)

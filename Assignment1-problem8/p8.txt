@@ -1,0 +1,6 @@
+we will asuume that the normal toy will be 1 and the defected toy is 0.
+we will put them in an array.
+we can first sort them and using binary serch tree to find the defected toys it takes O(log n).
+Or we can use Hashing table with chaining to solve the collisions .
+Because we have values (0,1) only.
+It will take O(1) 
